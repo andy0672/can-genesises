@@ -1,0 +1,17 @@
+---
+info:
+  name: four
+  account-address: "0x41089663596a3fa87a311eedf9e98a57f1845f4a4c30660eb71b25f7c8ae1b0a"
+  protocol-key: qFYAVKEJfyAOn/oYYKWqPSVxv4xaoh2Khz1g3jlOybvPiQsi48vvg3xx5LUPCZynBPXFH4KsZlaPGevsyJ+hEok5Pzgh+trtC4vnNW4YQpzBX1pO6kEOvg+K3FqEWLTL
+  worker-key: dFjmJx9wwO5M41ABuTjVJihWJeCdGVm8I9Lw1NIsJGE=
+  network-key: 5isc9cvNyfZPPkN1OfXn6tTc8hFdhW3ZvpH357oJ/SI=
+  gas-price: 1005
+  commission-rate: 200
+  network-address: /dns/127.0.0.1/tcp/8080/http
+  p2p-address: /dns/127.0.0.1/udp/8084
+  narwhal-primary-address: /dns/127.0.0.1/udp/8081
+  narwhal-worker-address: /dns/127.0.0.1/udp/8082
+  description: four node
+  image-url: ""
+  project-url: ""
+proof_of_possession: tbjCOR/bh9rF0pk8YUEpy3DUvHcCqzUSr6NBBFRUeSPkFHg5EQ0vtmoxM9sOwcUR
